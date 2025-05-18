@@ -9,6 +9,6 @@ def insertion_sort_desc(arr):
         arr[j + 1] = key
 
 # Example usage:
-arr = [5, 2, 4, 6, 1, 3]
+arr = [5, 2, 4, 6, 1, 3,10]
 insertion_sort_desc(arr)
 print("Sorted array (descending):", arr)
